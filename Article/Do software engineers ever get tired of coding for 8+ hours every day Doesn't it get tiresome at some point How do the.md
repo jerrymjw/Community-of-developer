@@ -1,0 +1,17 @@
+# Do software engineers ever get tired of coding for 8+ hours every day? Doesn't it get tiresome at some point? How do they deal with it?
+
+[Do software engineers ever get tired of coding for 8+ hours every day? Doesn't it get tiresome at some point? How do they deal with it?](https://www.quora.com/Do-software-engineers-ever-get-tired-of-coding-for-8+-hours-every-day-Doesnt-it-get-tiresome-at-some-point-How-do-they-deal-with-it)
+
+*"Coding for 8+ hours a day"*... Dear god, you make it sound like you'll be laying bricks or doing dishes all day.
+
+Software engineering is not coding. Coding is just the most boring part of it: translating an idea/solution/specification/design into code.
+
+In reality software engineering is almost never boring. If you do it right, there's almost always a challenge involved. Initially it's learning how to work with languages, technologies, libraries, and the problem domain of the project you're working on. Until you get a good grasp of those things, you should and you probably will be working on simpler problems, and that's going to be enough of a challenge.
+
+Once you're past the learning stage and straightforward tasks no longer present a challenge, just shift into a higher gear: start not just implementing other people's ideas and specs, come up with your own! Think about how to do something in the best possible way. How to make your solution the most useful, the most flexible, the most scalable; how to pick the best tools to work with; how to build the best architecture; how to make your code the most readable and easiest to build and maintain; how to make the best user experience; how to make the product sell better, generate more revenue, etc. etc. There's an endless list of challenges and opportunities for creativity that are almost always available for you to tackle, if only you want. No one's going to tell a creative and competent engineer to just stick to basic boring coding.
+
+Every piece of code that you're ever going to write is going to be completely new and unique, and it's going to have a different story. If it's not unique, then you're doing it wrong. For example, if you get a task to code 100 data entry forms and you feel that that's a boring and laborious work, don't do it like that. Instead, create a framework for automated generation of forms (or find and use an open-source solution). Solving this type of problem is much more interesting, more challenging and more productive in the long term. If you get a tedious and repetitive task, think: "What kind of solution can I build, so that I'll never have to manually do this tedious task?" Thinking at a higher level is much more fun and it also makes you a better engineer.
+
+In my 20+ year career I almost never felt that my work was tedious or boring. Exhausting yes, but it's exhausting because I'm solving very difficult and challenging problems, not because of "8 hours of coding". And difficult problems, once solved, give a tremendous amount of satisfaction, so it's well worth it.
+
+If you do deplete available challenges at a job (which frequently happens after 1-3 years), then switch projects, switch jobs, start your own company and try to make it work. If you make it work, try to build a billion dollar business and change the world. How's that for a good list of fun challenges that you can pursue as a software engineer? :) You have to start somewhere though, and doing some work with Java seems like as good a place to start as any.
