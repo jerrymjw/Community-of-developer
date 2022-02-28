@@ -1,0 +1,5 @@
+# Why would I use Angular over React?
+
+[Why would I use Angular over React?](https://www.quora.com/Why-would-I-use-Angular-over-React)
+
+One very good reason to use Angular is: if your existing code base is in Angular, if your organization uses Angular, if your staff is trained in Angular. Everything else being equal, the ROI of migrating from Angular to React (or React to Angular) is not easy to establish, but none of these decisions are made in a vacuum and context matters.Hypothetically, if you were starting from literally 0, with no preexisting code and no developer, Angular is more opinionated and provides a larger scope than React does. Also, traditional Angular has a neat separation between templating logic, business logic and styling, which some consider a plus. You can make the opposite arguments in favor of React: it is (slightly) more light weight, more flexible, and less rigid.
